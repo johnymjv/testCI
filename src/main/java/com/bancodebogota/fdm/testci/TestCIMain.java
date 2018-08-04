@@ -21,7 +21,7 @@ public class TestCIMain {
     System.err.println("TESTCI");
     }
     
-    public int resta(int n1,int n2){
+    public int resta3(int n1,int n2){
     return n1-n2;
     
     }
