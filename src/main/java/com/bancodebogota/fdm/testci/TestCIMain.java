@@ -20,4 +20,9 @@ public class TestCIMain {
     public static void Main(String[] args){
     System.err.println("TESTCI");
     }
+    
+    public int resta(int n1,int n2){
+    return n1-n2;
+    
+    }
 }
